@@ -1,0 +1,11 @@
+streamlit
+cryptography
+pandas
+request
+hashlib
+base64
+fernet
+pyotp
+random
+datetime
+textwrap
