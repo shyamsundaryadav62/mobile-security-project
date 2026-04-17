@@ -32,7 +32,7 @@ except Exception:
     QR_SUPPORTED = False
 
 st.set_page_config(
-    page_title="Advanced Mobile App Security Dashboard",
+    page_title="Mobile Application Security Simulation Dashboard",
     layout="wide",
     initial_sidebar_state="expanded",
 )
