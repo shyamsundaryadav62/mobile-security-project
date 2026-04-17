@@ -50,7 +50,7 @@ h1,h2,h3,h4,h5 {color: #00bfff;}
 </style>
 """, unsafe_allow_html=True)
 
-st.title("Advanced Mobile Security App")
+st.title("Mobile Application Security Simulation Dashboard")
 
 # --- Audit Log System ---
 if "audit_log" not in st.session_state:
