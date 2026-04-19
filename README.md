@@ -32,6 +32,7 @@ qrcode (optional)
 ⚙️ Installation & Setup :- 
 1️⃣ Clone Repository
 git clone https://mobile-appsecurity-simulated-project.streamlit.app/
+
 cd appsec-ai-simulator
 
 2️⃣ Install Dependencies
