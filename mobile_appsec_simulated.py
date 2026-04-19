@@ -7,7 +7,7 @@ import pyotp
 import random
 import pandas as pd
 from datetime import datetime, timedelta
-import request
+import requests
 import textwrap
 
 # Optional QR generation
