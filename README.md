@@ -38,7 +38,7 @@ cd appsec-ai-simulator
 pip install -r requirements.txt
 
 3️⃣ Run Application
-streamlit run mobile_app_security_dashboard_merged.py
+streamlit run mobile_appsec_simulated.py
 
 🧠 How It Works
 
