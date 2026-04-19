@@ -1,16 +1,3 @@
-# mobile_app_security_dashboard_merged.py
-# Merged Advanced Mobile App Security Dashboard — Neon Blue Edition (merged v2 + enhanced MFA)
-# This file includes:
-# - Detailed Risk Analysis
-# - Separate Encryption & Decryption modules
-# - Elaborated Code Obfuscation
-# - Interactive Session Handling, Key Management, Permissions Audit
-# - Enhanced MFA (TOTP) demo with provisioning URI, QR if available, OTP display & verification
-# - Audit log for actions
-#
-# Dependencies: streamlit, pyotp, cryptography, pandas, requests
-# Optional: qrcode, pillow (for QR image). If qrcode is missing, UI will still show provisioning URI for manual entry.
-
 import streamlit as st
 import time
 import hashlib
@@ -20,7 +7,7 @@ import pyotp
 import random
 import pandas as pd
 from datetime import datetime, timedelta
-import requests
+import request
 import textwrap
 
 # Optional QR generation
